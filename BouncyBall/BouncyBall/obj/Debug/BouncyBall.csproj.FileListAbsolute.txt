@@ -1,0 +1,10 @@
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\bin\Debug\BouncyBall.exe.config
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\bin\Debug\BouncyBall.exe
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\bin\Debug\BouncyBall.pdb
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\obj\Debug\BouncyBall.csprojAssemblyReference.cache
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\obj\Debug\BouncyBall.Form1.resources
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\obj\Debug\BouncyBall.Properties.Resources.resources
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\obj\Debug\BouncyBall.csproj.GenerateResource.cache
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\obj\Debug\BouncyBall.csproj.CoreCompileInputs.cache
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\obj\Debug\BouncyBall.exe
+C:\Users\אופיר\OneDrive\HackerU\פרוייקט BouncyBall\BouncyBall\BouncyBall\obj\Debug\BouncyBall.pdb
